@@ -1,3 +1,4 @@
+![preview](preview.png)
 # Lending Club Loan Default Prediction  
 ### Deep Learning Model for Credit Risk Classification
 
