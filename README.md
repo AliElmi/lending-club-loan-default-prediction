@@ -48,7 +48,25 @@ Dataset fields include:
 
 ---
 
+## ▶️ How to Run
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the model:
+python model.py
+
+
+Outputs will be saved automatically.
+
+---
+
 ## 🧠 Model Architecture
 
 The final model uses a **fully connected neural network**, which is the correct approach for tabular financial data.
 
+---
+
+## 📄 License
+
+MIT License
