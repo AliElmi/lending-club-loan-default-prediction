@@ -67,11 +67,13 @@ lending-club-loan-default-prediction/
 ## ▶️ How to Run
 
 Install dependencies:
-  pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 Run the model:
-  python model.py
-
+```
+python model.py
+```
 
 Outputs will be saved automatically.
 
