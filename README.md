@@ -48,6 +48,21 @@ Dataset fields include:
 
 ---
 
+## 📁 Project Structure
+
+lending-club-loan-default-prediction/
+│── assets/
+│── data/
+│     └── travel_insurance.csv            # Dataset
+│── results/
+│── saved_model/
+│     └── model.h5                        # Trained model
+│── README.md                             # Project documentation
+│── model.py                              # Clean executable training script
+│── requirements.txt                      # Dependencies
+
+---
+
 ## ▶️ How to Run
 
 Install dependencies:
