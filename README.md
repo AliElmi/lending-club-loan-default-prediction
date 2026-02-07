@@ -49,7 +49,7 @@ Dataset fields include:
 ---
 
 ## 📁 Project Structure
-
+```
 lending-club-loan-default-prediction/
 │── assets/
 │── data/
@@ -60,6 +60,7 @@ lending-club-loan-default-prediction/
 │── README.md                             # Project documentation
 │── model.py                              # Clean executable training script
 │── requirements.txt                      # Dependencies
+```
 
 ---
 
